@@ -5,7 +5,7 @@
 ### 👨‍💻 Languages and Tools
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
+[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
