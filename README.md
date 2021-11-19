@@ -28,6 +28,8 @@
 
 
 ### 👨‍💻 Languages and Tools that I am currently studing 
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 
