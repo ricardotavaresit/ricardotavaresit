@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-### Here's the languages that I am currently working on:
-
-### 👨‍💻 Languages and Tools
+### 👨‍💻 Languages and Tools that I am currently working
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
