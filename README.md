@@ -18,6 +18,9 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
+[![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
+
+
 
 
 
