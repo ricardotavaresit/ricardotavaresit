@@ -12,7 +12,7 @@
 [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
-[![MSSQL](https://img.shields.io/badge/-MSSQL-black?style=flat&logo=MSSQL&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
+[![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 [![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 
