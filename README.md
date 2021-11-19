@@ -20,6 +20,7 @@
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/ricardotavaresit)](https://gitlab.com/BRdhanani) 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
+[![Php](https://img.shields.io/badge/-Php-white?style=flat&logo=php&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 
 
 
