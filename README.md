@@ -32,9 +32,4 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
-
-
-
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/ricardotavaresit/ricardotavaresit/blob/output/github-contribution-grid-snake.gif)
+ 
