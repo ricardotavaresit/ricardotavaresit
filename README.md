@@ -21,12 +21,7 @@
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
 
 
-<div align="center">
-  <a href="https://github.com/ricardotavaresit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardotavaresit&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact&langs_count=7&theme=jolly"/>
-</div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
