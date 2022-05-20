@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-### 👨‍💻 Languages and Tools that I am currently working
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardotavaresit&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact)](https://github.com/ricardotavaresit/github-readme-stats)
 
-
+### 👨‍💻 Languages and Tools that I am currently working
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
