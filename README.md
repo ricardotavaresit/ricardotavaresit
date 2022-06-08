@@ -1,9 +1,11 @@
 ### Hi there 👋
+
+
 <table style="width:100%" border:1px>
 
   <tr>
-    <td>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardotavaresit&count_private=true)</td>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact)](https://github.com/ricardotavaresit/github-readme-stats)</td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardotavaresit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact&langs_count=7&theme=dracula"/></td>
   </tr>
   
 </table>
