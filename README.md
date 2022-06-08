@@ -1,7 +1,14 @@
 ### Hi there 👋
+<table style="width:100%" border:1px>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardotavaresit&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact)](https://github.com/ricardotavaresit/github-readme-stats)
+  <tr>
+    <td>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardotavaresit&count_private=true)</td>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact)](https://github.com/ricardotavaresit/github-readme-stats)</td>
+  </tr>
+  
+</table>
+
+
 
 ### 👨‍💻 Languages and Tools that I am currently working
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
