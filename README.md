@@ -1,45 +1,33 @@
 ### Hi there 👋
 
 
-<table style="width:100%" border:1px>
-
+<table style="width:100%" border:0px>
   <tr>
     <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardotavaresit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact&langs_count=7&theme=dracula"/></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact&langs_count=20&theme=dracula"/></td>
   </tr>
-  
 </table>
 
 
+**Languages and Tools 🚀**
 
-### 👨‍💻 Languages and Tools that I am currently working
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
-[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
-[![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
-[![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
-[![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
-[![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
-[![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit) 
+<div style="display: inline_block">
+  <img align="center" alt="HTML 5" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS 3" title="CSS 3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+ <img align="center" alt="jQuery" title="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+   <img align="center" alt="Typescript" title="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Santos-Js" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Santos-sass" title="NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Santos-React" title="React JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Santos-node" title="Node JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img align="center" alt="Express" title="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Santos-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Santos-mysql" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="PostgreSQL" title="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 
+  <img align="center" alt="Sass" title="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 
- 
-
- 
-
-
-### 👨‍💻 Languages and Tools that I am currently studing 
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&link=https://github.com/ricardotavaresit)](https://github.com/ricardotavaresit)
+  <img align="center" alt="yarn" title="yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+  <img align="center" alt="Git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Visual Studio Code" title="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
  
