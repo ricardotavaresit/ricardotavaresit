@@ -1,12 +1,14 @@
 ### Hi there 👋
 
  
-<table>
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardotavaresit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact&langs_count=20&theme=dracula"/></td>
-  </tr>
-</table>
+<div align='center'>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardotavaresit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact&langs_count=20&theme=dracula"/></td>
+</div>
+
+<div align='center'>
+<a height="150em" href="http://www.github.com/ricardotavaresit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardotavaresit&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true&theme=dracula" /></a>
+</div>
 
 
 **Front-End Languages/Frameworks**
