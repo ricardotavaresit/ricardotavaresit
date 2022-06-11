@@ -1,13 +1,13 @@
 ### Hi there 👋
 
  
-<div align='center'>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardotavaresit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact&langs_count=20&theme=dracula"/></td>
-</div>
+<div align='center'style="display: inline_block">
+  
+   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ricardotavaresit&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ricardotavaresit&theme=darcula&hide_border=true&background=FFFFFF00">
 
-<div align='center'>
-<a height="150em" href="http://www.github.com/ricardotavaresit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardotavaresit&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true&theme=dracula" /></a>
+
 </div>
 
 
