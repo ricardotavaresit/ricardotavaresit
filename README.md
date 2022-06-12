@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ricardo Tavares</h1>
+<h3 align="center">FullStack Developer</h3>
 
 <div align="center" style="display: inline_block">
   <img
@@ -296,7 +297,11 @@
   
   
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ricardotavaresit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ricardotavaresit/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ricardotavaresit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ricardotavaresit/" height="30" width="40" /></a>
+</p>
 
        
        
