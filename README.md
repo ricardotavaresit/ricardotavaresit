@@ -18,14 +18,14 @@
 <h4 align="left">Programming Languages</h4>
 <p align="left">
  <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/>
   </a>
  
   <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-         title="TypeScript"
+      title="TypeScript"
       width="40"
       height="40"
     />
@@ -53,6 +53,7 @@
 <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
       alt="html5"
       width="40"
       height="40"
