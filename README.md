@@ -1,335 +1,98 @@
-<h1 align="center">Hi 👋, I'm Ricardo Tavares</h1>
-<h3 align="center">FullStack Developer</h3>
+<h1 align="center">Hi there 👋, I'm Ricardo Tavares</h1>
+<h3 align="center">🚀 FullStack Developer | 🤖 Machine Learning Enthusiast</h3>
 
-<div align="center" style="display: inline_block">
-  <img
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+build+scalable+FullStack+applications.;I+explore+the+world+of+Machine+Learning!;Let's+create+innovative+solutions+together!" alt="Typing Animation">
+</p>
+
+---
+
+### 🏆 **GitHub Stats**
+<div align="center">
+  <img 
     height="150"
-    src="https://github-readme-stats.vercel.app/api?username=ricardotavaresit&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs"
+    src="https://github-readme-stats.vercel.app/api?username=ricardotavaresit&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs"
+    alt="GitHub Stats"
   />
   <img
     height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact&hide_border=true&theme=darcula&langs_count=6&hide=jupyter%20notebook,tex,css,php"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardotavaresit&layout=compact&hide_border=true&theme=radical&langs_count=6&hide=jupyter%20notebook,tex,css,php"
+    alt="Top Languages"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=ricardotavaresit&theme=darcula&hide_border=true&background=FFFFFF00"
+    src="https://github-readme-streak-stats.herokuapp.com?user=ricardotavaresit&theme=radical&hide_border=true&background=FFFFFF00"
+    alt="GitHub Streak Stats"
   />
 </div>
 
-<h4 align="left">Programming Languages</h4>
+---
+
+### 🎓 Academic Background
+
+- **Master's in Applied Informatics: AI, Machine Learning, Data Science, and Web Development**  
+  **Institution:** Universidade de Aveiro  
+  **Focus Areas:** Artificial Intelligence, Machine Learning, Data Science, and FullStack Web Development  
+
+- **Postgraduate in Data and Artificial Intelligence**  
+  **Institution:** Universidade de Aveiro  
+  **Focus Areas:** Advanced Data Processing, Artificial Intelligence, and Applied AI Solutions  
+
+- **Bachelor's in Computer Science and Engineering**  
+  **Institution:** Instituto Politécnico de Viseu  
+  **Focus Areas:** Software Engineering, Algorithms, and Systems Development  
+
+---
+
+### 💻 **Tech Stack**
+#### 🔹 Programming Languages
 <p align="left">
- <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/>
-  </a>
- 
-  <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      title="TypeScript"
-      width="40"
-      height="40"
-    />
-  </a>
- <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      title="PHP"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      title="Python"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-</p>
-<h4 align="left">Frontend Development</h4>
-
-<a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      title="HTML5"
-      width="40"
-      height="40"
-    />
-  </a>
-  
- <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      title="CSS3"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      title="VueJS"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      title="React"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-   <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
-      alt="jQuery"
-      title="jQuery"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      title="TailwindCSS"
-      width="40"
-      height="40"
-    />
-  </a>
-
-<a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      title="Bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
- 
-   <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      title="Redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack"
-      title="Webpack"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-      alt="babel"
-      title="Babel"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  
-
-<h4 align="left">Backend Development</h4>
-<a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel"
-      title="Laravel"
-      width="40"
-      height="40"
-    />
-  </a>
-
- <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      title="NodeJS"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-<a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      title="Express"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      title="Flask"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
- <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-      alt="codeigniter"
-      title="CodeIgniter"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-      alt="nginx"
-      title="Nginx"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-
-<h4 align="left">Database</h4>
-<a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      title="MySql"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-   <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      title="MSSql"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-   <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      title="PostgreSql"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-   <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      title="MongoDB"
-      width="40"
-      height="40"
-    />
-  </a>
-<a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
-      title="MariaDB"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-   <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      title="Oracle"
-      width="40"
-      height="40"
-    />
-  </a>
-
- 
-  
-<h4 align="left">Data Visualization</h4>
-
-<a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      title="ChartJS"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-
-
-<h4 align="left">Tools</h4>
-<a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      title="GIT"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
-    
-
-<a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-      alt="VsCode"
-      title="VsCode"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-
-  
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ricardotavaresit/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ricardotavaresit/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ricardotavaresit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ricardotavaresit/" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>
 </p>
 
-       
-       
+#### 🔹 FullStack Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" title="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" title="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
+</p>
 
- 
+#### 🔹 Machine Learning & Data Science
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" title="Scikit-Learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" title="Keras" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_database_model.svg" alt="SQL for Data" title="SQL for Data" width="40" height="40"/>
+</p>
 
- 
-</div>
+---
+
+### 📬 **Get in Touch**
+<p align="left">
+  <a href="https://www.linkedin.com/in/ricardotavaresit/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ricardotavares.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/ricardotavaresit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+### 🎯 **Fun Facts About Me**
+- ♟️ I enjoy playing chess to sharpen my strategic thinking.
+- ⚽ I love practicing sports to stay active and healthy.
+- 🌍 Passionate about **open-source contributions** and building community-driven solutions.
+
+---
+
+<p align="center">✨ Thank you for visiting my profile! Let's build something amazing together! ✨</p>
